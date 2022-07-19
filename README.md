@@ -15,7 +15,9 @@
 <img src="https://img.shields.io/badge/JavaScript-FFCA28?style=flat-square&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-32a85d?style=flat-square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/Next.js-32a8a4?style=flat-square&logo=Next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-7532a8?style=flat-square&logo=Node.js&logoColor=white"/>
+
+<!--<img src="https://img.shields.io/badge/Node.js-7532a8?style=flat-square&logo=Node.js&logoColor=white"/>-->
+
 <img src="https://img.shields.io/badge/TypeScript-3e32a8?style=flat-square&logo=TypeScript&logoColor=white"/></div>
  
  <br /><br />
