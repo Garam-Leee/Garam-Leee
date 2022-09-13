@@ -1,5 +1,4 @@
-HI THERE!
-오예
+
 <!--### My Github
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-Ga-Ram&&layout=compact&langs_count=81)-->
 
