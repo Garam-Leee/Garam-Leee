@@ -5,13 +5,13 @@
 <!--### My Github
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-Ga-Ram&&layout=compact&langs_count=81)-->
 
-<h4>Language</h4>
+<h3>Language</h3>
 
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/>
 
 <br>
 
-<h4>Library & Framework</h4>
+<h3>Library & Framework</h3>
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/>
 
@@ -25,7 +25,7 @@
 
 <br>
 
-<h4>Version Control</h4>
+<h3>Version Control</h3>
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Git_Hub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
 
