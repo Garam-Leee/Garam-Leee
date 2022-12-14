@@ -1,5 +1,6 @@
-# HI THERE! 🙌🏻
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&customColorList=25" width=100% />
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fredoka+One&size=50&duration=5000&pause=1000&color=9D9ED2&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=800&height=180&lines=Welcome!🥳;I'm+Front-End+Engineer%2C+GARAM!">
 
 <!--### My Github
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-Ga-Ram&&layout=compact&langs_count=81)-->
@@ -26,4 +27,5 @@
 ![](./profile-3d-contrib/profile-night-green.svg)
 
  
- 
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&customColorList=25" width=100% />
+
